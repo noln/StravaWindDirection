@@ -1,0 +1,1 @@
+I don't get why this isn't already a feature of Strava.. Following a discussion today with someone who thought that wind direction indicated was the direction that it is blowing *to*, rather than the direction it is blowing *from*. This arrow removes the guesswork for the meteorologically-challenged.

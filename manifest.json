@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Strava Wind Direction",
+  "version": "0.0.1",
+  "description": "Display a red arrow indicating wind direction, when it's available in the selected activity.",
+ 
+  "content_scripts": [{
+    "js": ["content.js"],
+    "matches": ["https://www.strava.com/activities/*"]
+  }],
+
+  "web_accessible_resources": ["wind-arrow.png"]
+}
